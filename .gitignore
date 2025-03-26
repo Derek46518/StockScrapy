@@ -1,0 +1,6 @@
+
+*.xlsx
+/output/*
+
+!/output/
+!/output/.gitignore
